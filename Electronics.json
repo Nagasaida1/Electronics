@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "679a538641833cb68e2710c0"
+  },
+  "name": "Laptop",
+  "category": "Electronics",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "679a538641833cb68e2710c1"
+  },
+  "name": "Smartphone",
+  "category": "Electronics",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "679a538641833cb68e2710c2"
+  },
+  "name": "TV",
+  "category": "Electronics",
+  "price": 1500
+}]
